@@ -1,0 +1,4 @@
+# This Lovable-built UI is a Node/Vite/TanStack app, not a Python app.
+# Vercel should install dependencies from package-lock.json with npm.
+# Keep this file intentionally empty of Python packages to avoid Python
+# dependency resolution failures during deployment.
